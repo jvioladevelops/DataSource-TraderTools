@@ -1,3 +1,3 @@
-# DataSource
+# DataSource-TraderTools
 A traders best friend application
-Eurusd
+
