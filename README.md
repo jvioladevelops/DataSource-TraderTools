@@ -14,3 +14,5 @@ If the last time slot for a day is 16:00 then we know it is a weekend.
 If the starting time slot for a day is 16:00 then we know it is a Sunday. 
 
 We should figure out this holiday situation and figure how we can account for that in our data. 
+
+-Writing new code
