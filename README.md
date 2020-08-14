@@ -18,3 +18,5 @@ We should figure out this holiday situation and figure how we can account for th
 -Writing new code 08/10
 *loading in minute data want to write some more code tonight to find max movement in given time frame
 I am thinking maybe it will be better if instead of having the max it was a range like the the top 10 max in a 30 day period or something
+
+road blocks
